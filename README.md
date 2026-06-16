@@ -142,3 +142,9 @@ daily equities, `365` for daily crypto, `12` for monthly.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+## In the wild
+
+`deflate` powers the verdicts in the **[Trading Strategy Encyclopedia](https://github.com/raphael2025/trading-strategy-encyclopedia)** — every strategy there is run through this exact gauntlet. Honest community + market data: [Telegram](https://t.me/+E3UdPtwlISVhZDc1).
