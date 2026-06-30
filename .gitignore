@@ -11,3 +11,7 @@ venv/
 .ruff_cache/
 *.png
 .DS_Store
+
+.env
+.env.*
+!.env.example
